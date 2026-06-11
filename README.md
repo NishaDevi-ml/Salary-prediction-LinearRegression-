@@ -1,7 +1,8 @@
-# Salary-prediction-LinearRegression-
-## Overview
+# Salary Prediction Using Linear Regression
 
-This project predicts salary based on years of experience using Linear Regression.
+## Project Overview
+
+This project predicts employee salary based on years of experience using Machine Learning.
 
 ## Technologies Used
 
